@@ -1,6 +1,17 @@
-circulate
-=========
+                         ` '
+                          * -
+         _________________)`
+        /`.{circulate},-'/
+       /   `.    _,-'   /    A template-based
+      /   ,-'`.-'.     /    bulk e-mail sending
+     /_,-'        `.  /    solution.
+    /'______________`/
 
-A template-based bulk e-mail sending solution.
 
-TODO: update usage info.
+# Circulate (*a template-based e-mail sending solution*)
+
+## Installation
+
+
+
+## Setup
